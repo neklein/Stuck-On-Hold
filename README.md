@@ -4,5 +4,5 @@ This is the beginning of an App that will activate when a caller is placed on ho
 
 <ul>
   <li>"I'm Stuck On Hold" is a draw.io flowchart of the program</li>
-  <li></li>
+  <li>"Wireframes" is the draw.io file containing the in-progress wire frames for the project</li>
 </ul>
